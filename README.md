@@ -140,13 +140,38 @@ This allows the same pipeline to continuously:
 
 without waiting for a batch-processing cycle.
 
-## Certification
+## 🏅 Confluent Certification
 
-Alongside the live coding challenge, I completed the:
+Alongside the hands-on project, I earned the **Confluent Data Streaming Engineer Foundations Certificate**.
 
-**Confluent Data Streaming Engineer Foundations Certificate**
+**Certified:** September 22, 2026
 
-Certified: **September 22, 2026**
+![Certificate](images/certificate.png)
+
+
+### Topic-Level Results
+
+| Topic | Score |
+|---|---:|
+| Apache Flink | 100% |
+| Apache Kafka | 100% |
+| Kafka Connect | 100% |
+| Kafka Streams | 100% |
+| Schema Registry | 100% |
+
+The certification covers foundational knowledge across real-time data streaming, Kafka, Flink, Kafka Connect, Kafka Streams, Schema Registry, and Confluent Cloud.
+
+This project puts those concepts into practice through an end-to-end real-time streaming pipeline.
+
+# Real-Time Trade Forecasting with Confluent
+
+A real-time streaming analytics pipeline built during a **2-hour live coding challenge at Confluent AI Developer Day 2026**.
+
+Using continuously generated trading data provided for the challenge, I built an end-to-end pipeline with **Apache Kafka + Flink SQL** for:
+
+**Real-Time Streaming → Data Enrichment → ML Forecasting → Anomaly Detection**
+
+Confluent, now **an IBM company**, provides the real-time data streaming platform used to build and run this pipeline.
 
 ## Context
 
